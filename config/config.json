@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Balocha1",
+    "database": "database_development_nounou",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Balocha1",
+    "database": "database_test_nounou",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Balocha1",
+    "database": "database_production_nounou",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
